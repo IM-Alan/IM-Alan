@@ -1,4 +1,3 @@
-Of course! Here's your text translated into English:
 
 ### **About Me**
 Hello! I'm Alan Iñiguez Muñoz, a Computer Engineering student passionate about technology.
