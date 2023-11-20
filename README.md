@@ -1,12 +1,13 @@
-# IM-Alan.
-### <span style="color:blue">Acerca de mí</span>
-¡Hola! Soy Alan Iñiguez Muñoz, estudiante de Ingeniería en Computación apasionado por la tecnología. 
+Of course! Here's your text translated into English:
 
-### <span style="color:green">Tecnologías Favoritas</span>
-Me fascinan los drones y creo en su versatilidad para resolver problemas en diversos campos como la academia, el entretenimiento y la investigación.
+### **About Me**
+Hello! I'm Alan Iñiguez Muñoz, a Computer Engineering student passionate about technology.
 
-### <span style="color:red">Metas Personales</span>
-Mis metas son un misterio por ahora, ¡pero eso hace que el viaje sea aún más emocionante! Exploraré cómo aplicar lo que aprendo: ¿trabajar en una empresa, ser maestro o emprender? El tiempo lo dirá.
+### **Favorite Technologies**
+I'm fascinated by drones and believe in their versatility to solve problems in various fields such as academia, entertainment, and research.
 
-### <span style="color:orange">Proyectos en Desarrollo</span>
-Actualmente, estoy trabajando en un proyecto de animatrónico funcional. Mi objetivo es dotarlo de "inteligencia artificial" para conversar. Aunque apenas tengo algunas piezas impresas en 3D, ¡la intención es lo que cuenta! Estoy cursando un curso de Arduino para programar los servos y otros componentes de este proyecto.
+### **Personal Goals**
+My goals are a mystery for now, but that makes the journey even more exciting! I'll explore how to apply what I learn: working in a company, becoming a teacher, or starting a venture? Time will tell.
+
+### **Projects in Development**
+Currently, I'm working on a functional animatronic project. My goal is to give it "artificial intelligence" to converse. Though I only have a few 3D-printed parts, intention counts! I'm taking an Arduino course to program the servos and other components for this project.
